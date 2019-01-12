@@ -1,7 +1,7 @@
 # Test
 
 
-# Grote headder
+# Grote header
 
 ## Iets kleinere header
 
@@ -23,7 +23,7 @@ Inline-style:
 ## Interesses
 
 ### Ik hou van Gamen Ik speel Counter strike Global offensive en Age Of Empires.
-#### In Counterstrike ben ik net begonnen ben en dat ik met vrienden speel.
+#### In Counterstrike ben ik net begonnen  en ik speel het met vrienden.
 #### Age of Empires speel ik samen met mijn vader.
 
 ## Persoonlijke 
